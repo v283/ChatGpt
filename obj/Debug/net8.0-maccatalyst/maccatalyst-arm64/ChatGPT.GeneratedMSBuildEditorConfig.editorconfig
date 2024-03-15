@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChatGPT
+build_property.ProjectDir = /Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/Resources/Styles/Labels.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.Resources.Styles.Labels.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Labels.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Labels.xaml
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/Views/ConversationView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.Views.ConversationView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ConversationView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ConversationView.xaml
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/Views/Templates/BotMessageItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.Views.Templates.BotMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Templates/BotMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Templates/BotMessageItemTemplate.xaml
+
+[/Users/valentine/Documents/GitHub/dotnetmaui-chatgpt-oss/ChatGPT/ChatGpt/Views/Templates/UserMessageItemTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatGPT.Views.Templates.UserMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Templates/UserMessageItemTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Templates/UserMessageItemTemplate.xaml
